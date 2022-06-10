@@ -2,7 +2,7 @@
 
 Swift Charts make it easy to build highly customizable charts, in < 100 LOC, I was able to build a high and low chart for the next 10 days forecast with the Help of WeatherKit.
 
-![Sample](/Users/farouk/Desktop/DubDubSeries/Sample.png)
+![Sample](Sample.png)
 
 
 
